@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Dracula",
+  "base_artist": "Tame Impala",
+  "createdAt": "2026-02-07T23:56:11.924842Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dracula",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/01_Dracula_f(x).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dracula Mountain",
+      "artist": "Lightning Bolt",
+      "has_synced": false,
+      "path": "select/02_Dracula_Mountain_Lightning_Bolt.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dracula",
+      "artist": "Bones",
+      "has_synced": true,
+      "path": "select/03_Dracula_Bones.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dracula",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/04_Dracula_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dracula",
+      "artist": "Bruce Dickinson",
+      "has_synced": true,
+      "path": "select/05_Dracula_Bruce_Dickinson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dracula",
+      "artist": "Running Wild",
+      "has_synced": true,
+      "path": "select/06_Dracula_Running_Wild.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dracula",
+      "artist": "Iced Earth",
+      "has_synced": false,
+      "path": "select/07_Dracula_Iced_Earth.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dracula",
+      "artist": "Iced Earth",
+      "has_synced": true,
+      "path": "select/08_Dracula_Iced_Earth.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dracula (A Narrative Soundscape)",
+      "artist": "Iced Earth",
+      "has_synced": false,
+      "path": "select/09_Dracula_(A_Narrative_Soundscape)_Iced_Earth.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dracula Moon",
+      "artist": "Joan Osborne",
+      "has_synced": true,
+      "path": "select/10_Dracula_Moon_Joan_Osborne.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love Song For A Vampire [From \"Bram Stoker's Dracula\"]",
+      "artist": "Annie Lennox",
+      "has_synced": true,
+      "path": "select/11_Love_Song_For_A_Vampire_[From__Bram_Stoker's_Dracula_]_Annie_Lennox.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dracula",
+      "artist": "Bob Marley & The Wailers",
+      "has_synced": false,
+      "path": "select/12_Dracula_Bob_Marley_&_The_Wailers.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dracula (Mr Brown Rhythm)",
+      "artist": "Bob Marley & The Wailers",
+      "has_synced": false,
+      "path": "select/13_Dracula_(Mr_Brown_Rhythm)_Bob_Marley_&_The_Wailers.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dracula",
+      "artist": "Vondelpark",
+      "has_synced": false,
+      "path": "select/14_Dracula_Vondelpark.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Drácula",
+      "artist": "Los Tucanes de Tijuana",
+      "has_synced": false,
+      "path": "select/15_Drácula_Los_Tucanes_de_Tijuana.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Drácula",
+      "artist": "Tierra Santa",
+      "has_synced": false,
+      "path": "select/16_Drácula_Tierra_Santa.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dracula",
+      "artist": "Tame Impala",
+      "has_synced": false,
+      "path": "select/pl_01_Dracula_Tame_Impala.txt"
+    }
+  ]
+}
