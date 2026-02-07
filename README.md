@@ -1,0 +1,102 @@
+# Tame Impala – Dracula
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Oh-oh-oh-oh, oh-oh-oh-oh
+Oh-oh-oh-oh, oh-oh-oh-oh
+(Dilemma)
+The morning light is
+turning blue,
+the feeling is bizarre
+(Bizarre)
+The night is almost over,
+I still don't know where
+you are
+The shadows, yeah,
+they keep me pretty
+like a movie star
+(Ha-ha-ha-ha)
+Daylight makes me feel
+like Dracula
+(Dracula)
+In the end,
+I hope it's you and me
+In the darkness,
+I would never leave you
+(Ah)
+Won't ever see me in the
+light of day
+It's far too late,
+the time has come
+I'm on the verge of caving in,
+I run back through the dark
+Now I'm Mr. Charisma,
+fuckin' Pablo Escobar
+(Escobar)
+My friends are saying, "Shut up,
+Kevin, just get in the car"
+(Kevin)
+I just wanna be right where
+you are
+(Oh, my love)
+In the end,
+I hope it's you and me
+In the darkness,
+I would never leave
+(I won't leave her)
+We both saw this moment
+comin' from afar
+Now here we are
+Run from the sunlight, Dracula
+(Hey)
+Run from the sunlight, Dracula
+(Dracu-Dracula)
+Run from the sunlight, Dracula
+(Run from the sun)
+He's already spectacular
+(Sunlight, Dracula)
+Oh-oh-oh-oh, oh-oh-oh-oh
+(Ha-ha-ha-ha)
+Oh-oh-oh-oh, oh-oh-oh-oh
+(Dilemma)
+Oh-oh-oh-oh, oh-oh-oh-oh
+Oh-oh-oh-oh, oh-oh-oh-oh
+But please,
+do you think about what
+it might mean?
+'Cause I dream about you in
+my sleep
+That you ever love someone
+like me? Like me?
+(Oh)
+In the end,
+I hope it's you and me
+(Oh)
+In the darkness,
+I would never leave
+(I won't leave her)
+We both saw this moment
+comin' from afar
+Now here we are
+So run from the sunlight,
+Dracula
+(Hey)
+Run from the sunlight, Dracula
+(Run from the sunlight, Dracula)
+Run from the sunlight, Dracula
+(Oh)
+He's obviously spectacular
+(Run from the sunlight, Dracula)
+Run from the sunlight, Dracula
+(Run from the sunlight, Dracula)
+Run from the sunlight, Dracula
+(Run from the sunlight)
+He's obviously spectacular
+(Run from the sunlight, Dracula)
+Run from the sunlight, Dracula
+(Run from the sunlight, Dracula)
+Run from the sunlight, Dracula
+(Run from the sunlight, Dracula)
+He's already spectacular
+```
